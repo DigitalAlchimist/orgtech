@@ -27,6 +27,7 @@ a {
   width: 100%;
   background-color: #fff;
   overflow: hidden;
+  align-items: center;
 }
 
 .logo{
@@ -35,6 +36,7 @@ a {
 }
 
 .nav {
+  width: 80%;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -64,4 +66,17 @@ a {
 .nav__link {
   font-size:15px;
   color:#fff;
+}
+
+.content {
+  display: flex;
+  width: 70%;
+  overflow: hidden;
+}
+
+.footer {
+  display: flex;
+  height: 100px;
+  align-self: flex-end;
+  background-color: #1976D2;
 }
