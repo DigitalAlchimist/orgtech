@@ -1,0 +1,11 @@
+{
+  "name": "Orgtech",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DigitalAlchimist/orgtech",
+  "author": "DigitalAlchimist <cda74@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
